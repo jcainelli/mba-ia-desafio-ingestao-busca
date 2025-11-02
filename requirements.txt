@@ -42,7 +42,7 @@ load-dotenv==0.1.0
 marshmallow==3.26.1
 multidict==6.7.0
 mypy_extensions==1.1.0
-numpy==2.1.0
+numpy==2.0.2
 openai==1.106.1
 orjson==3.11.3
 packaging==25.0
