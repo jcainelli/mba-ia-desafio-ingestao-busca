@@ -26,4 +26,4 @@ RESPONDA A "PERGUNTA DO USUÁRIO"
 """
 
 def search_prompt(question=None):
-    pass
+    return PROMPT_TEMPLATE
